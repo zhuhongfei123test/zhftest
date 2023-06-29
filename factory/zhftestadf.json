@@ -1,0 +1,9 @@
+{
+	"name": "zhftestadf",
+	"location": "chinanorth3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72a4d56b-8421-48fb-b0b0-7bd8bc1b4073",
+		"tenantId": "b388b808-0ec9-4a09-a414-a7cbbd8b7e9b"
+	}
+}
