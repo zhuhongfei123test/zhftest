@@ -1,0 +1,17 @@
+{
+	"name": "mytest",
+	"properties": {
+		"content": {
+			"query": "this  si  a test",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "master",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
