@@ -1,5 +1,5 @@
 {
-	"name": "synapse-ws-sql--admin123",
+	"name": "synapse-ws-sql--adminsyn1234",
 	"properties": {
 		"privateLinkResourceId": "/subscriptions/989c5df8-72c1-4342-b84a-54de6a4e196d/resourceGroups/myResourceGroup/providers/Microsoft.Synapse/workspaces/admin123",
 		"groupId": "sql",
