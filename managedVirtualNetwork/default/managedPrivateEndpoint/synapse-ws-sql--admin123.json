@@ -1,10 +1,10 @@
 {
-	"name": "synapse-ws-sql--admin123",
-	"properties": {
-		"privateLinkResourceId": "/subscriptions/989c5df8-72c1-4342-b84a-54de6a4e196d/resourceGroups/myResourceGroup/providers/Microsoft.Synapse/workspaces/admin123",
-		"groupId": "sql",
-		"fqdns": [
-			"admin123.9d8e4c5f-ef48-49c3-a342-a08b1174d495.sql.azuresynapse.azure.cn"
-		]
-	}
+    "name": "synapse-ws-sql--zhftestsyn0709",
+    "properties": {
+        "privateLinkResourceId": "/subscriptions/05f5513c-9195-4544-91ec-c53e61981d4e/resourceGroups/zhftestsynapse/providers/Microsoft.Synapse/workspaces/zhftestsyn0709",
+        "groupId": "sql",
+        "fqdns": [
+            "zhftestsyn0709.c86f9730-4c1d-4a12-a188-7a241932c6be.sql.azuresynapse.azure.cn"
+        ]
+    }
 }
